@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "lite-server -c configs/bs-config.json",
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
